@@ -8,6 +8,6 @@ terraform apply "../variables/terraform-dev.tfplan"
 terraform destroy -var-file='../variables/dev.tfvars'
 ```
 
-###  Documentación 
+###  Documentation
 
 https://www.terraform.io/docs/commands/apply.html
